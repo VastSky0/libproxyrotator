@@ -8,7 +8,7 @@ import (
 	"net"
 	"os"
 
-	"github.com/VastSky0/go-socks5"
+	"github.com/armon/go-socks5"
 	"github.com/VastSky0/liblog"
 	"github.com/VastSky0/libutils"
 	"golang.org/x/net/proxy"
